@@ -1,0 +1,33 @@
+# Data handling
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning / Deep Learning
+scikit-learn
+tensorflow
+torch
+torchvision
+keras
+
+# Image processing
+opencv-python
+Pillow
+
+# Generative AI / LangChain
+langchain
+openai
+
+# Database
+mysql-connector-python
+SQLAlchemy
+
+# Web / App
+streamlit
+flask
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
